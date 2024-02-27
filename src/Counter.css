@@ -1,0 +1,21 @@
+.wrapper{
+    border: 5px black solid;
+    width: 300px;
+    padding: 20px;
+    display: grid;
+    place-items: center;
+    border-radius: 10px;
+    background-color: burlywood;
+}
+.counter{
+    border: 2px black solid;
+    background-color: rgb(143, 147, 138);
+    width: 150px;
+    border-radius: 10px;
+    color: black;
+}
+.main{
+
+    display: grid;
+    place-items: center;
+}
